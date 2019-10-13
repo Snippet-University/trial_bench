@@ -1,2 +1,2 @@
 # trial_bench
-The bench isbthebmain repo for projects that dis not pass calibration testing.
+The bench is the main repo for projects that need pass/no pass calibration testing.
