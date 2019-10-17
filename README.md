@@ -1,5 +1,6 @@
 # trial_bench
-The bench is the main repo for projects that need pass/no pass calibration testing.
+The bench is the main repo for projects that need pass/no pass calibration testing. 
+It takes a physical inventory of script properties to determine if a build is possible.
 
 Introduction:
 
