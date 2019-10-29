@@ -11,5 +11,8 @@ entered into the storefront using general tagging and markup for testing purpose
 
 #Attributions: Cloudbursting Stock
 
-#Programs Used : Visual Studio, Doxygen (for headers and file hierarchy)
+#Programs Used : Visual Studio, Doxygen (for headers and file hierarchy), Notepad++ (see below)
+
+https://github.com/notepad-plus-plus/notepad-plus-plus
+
 
